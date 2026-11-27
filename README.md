@@ -16,6 +16,7 @@
 | [**chief-of-staff**](https://github.com/mondaypb2-eng/chief-of-staff) | Personal chief-of-staff agent: tasks, calendar, notes, CRM and shopping via 4 MCP servers; runs on Claude or a local LLM · ผู้ช่วยส่วนตัวที่ใช้ MCP 4 ตัว | PHP, Node.js, MCP, MySQL, Ollama |
 | [**ads-intel**](https://github.com/mondaypb2-eng/ads-intel) | Multi-channel ads intelligence: normalizes Google/Meta/TikTok data, flags anomalies, suggests next-best-actions and renders a visual report · วิเคราะห์โฆษณาหลายช่องทางและสร้างรายงานภาพ | PHP, LLM, Chart.js |
 | [**local-technical-ai**](https://github.com/mondaypb2-eng/local-technical-ai) | Fully local IT-support RAG assistant · ผู้ช่วยไอทีแบบ RAG ที่รันในเครื่องทั้งหมด | Python, Ollama, Qwen3, ChromaDB, Streamlit |
+| [**cctv-device-monitor**](https://github.com/mondaypb2-eng/cctv-device-monitor) | CCTV & network device monitoring: status checks, SNMP traffic, live view, remote ONVIF reboot and map — co-op internship project · ระบบจัดการกล้องวงจรปิดและอุปกรณ์เครือข่าย (โปรเจกต์สหกิจ) | PHP, MySQL, SNMP, ONVIF, Flutter |
 
 ### 🛠️ Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
